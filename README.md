@@ -12,5 +12,5 @@
 
 #### 🎓 About me
 * Bioinformatics PhD
-* PhD at BRIM (2015-2021)
+* PhD at BIRM (2015-2021)
 * BS at Peking University (2011-2015)
