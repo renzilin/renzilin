@@ -8,7 +8,7 @@
 
 
 #### 🌱 Publications
-
+Ren ZL, Zhang JR, Zhang XM, Liu X, Lin YF, Bai H, Wang MC, Cheng F, Liu JD, Li P, Kong L, Bo XC, Wang SQ, Ni M, Yan JW. [Forensic nanopore sequencing of STRs and SNPs using Verogen's ForenSeq DNA Signature Prep Kit and MinION](https://pubmed.ncbi.nlm.nih.gov/33950286/). _Int J Legal Med_, 2021.
 
 #### 🎓 About me
 * Bioinformatics PhD
