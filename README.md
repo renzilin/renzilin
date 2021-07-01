@@ -5,7 +5,7 @@ I'm a bioinformatician and PhD student based in Beijing, China.
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/renzilin)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zilin.bj@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Outlook&logoColor=white)](mailto:zilin.ren@Outlook.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0000-0002-3621-1024-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3621-1024)
+[![ORCID](https://img.shields.io/badge/-ORCID--0000--0002--3621--1024-green)](https://orcid.org/0000-0002-3621-1024)
 
 
 
